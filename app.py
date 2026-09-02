@@ -1,5 +1,5 @@
 # Programa de cálculo de consumo elétrico e valor mensal médio gasto 
-# # Autor: Cristian
+# Autor: Cristian
 # Entrada 
 nome = input("Digite o nome do aparelho elétrico: ") 
 potencia = float(input("Digite a sua potência em watts: ")) 
